@@ -1,6 +1,6 @@
 # Homarr 
 Homarr | A simple, yet powerful dashboard for your server
 
-![image](https://github.com/user-attachments/assets/c892b9c5-2302-4d74-8449-5abd58cbd2d7)
+![Screenshot_1](https://github.com/user-attachments/assets/5a3ec085-2644-475e-9b5a-b031e70d9330)
 
 Fuente: https://homarr.dev/docs/getting-started/installation
